@@ -5,3 +5,5 @@ this is the main file which I am modifying now
 ------------
 
 Please read Introduction SECTION as it gives more idea about this book.
+
+Chapter 1 was added very recently
