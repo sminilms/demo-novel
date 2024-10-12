@@ -1,0 +1,2 @@
+This is my first document. This test document is created for testing the git repo. How documents are stored in the git and how it manages the version control.
+:wq
